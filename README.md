@@ -1,6 +1,5 @@
-### Hi there 👋, My name is Nayamat Ullah
-#### A passionate Full-stack web developer from Bangladesh
-![A passionate Full-stack web developer from Bangladesh](https://blog.grinfer.com/wp-content/uploads/2020/02/How-to-Learn-Computer-Programming-Languages.png)
+## Hi there 👋, My name is Nayamat Ullah
+### A passionate Full-stack web developer from Bangladesh
 
 I'm currently learning full stack web development. In the world of software programming, it helps to have someone on the team who is something of a jack of all trades.
 
