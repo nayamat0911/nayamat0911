@@ -1,6 +1,18 @@
 ### Hi there 👋, My name is Nayamat Ullah
 #### A passionate Full-stack web developer from Bangladesh
-I'm currently learning full stack web development. In the world of software programming, it helps to have someone on the team who is something of a jack of all trades.
+I am Nayamat Ullah .I am a Full Stack Web Developer with experience of more than 2+ years with specializing in Web-Development & Designing with :
+
+- Python
+- Django
+- JavaScript
+- React Js(Redux, Hooks)
+- jQuery
+- Bootstrap4
+- CSS3
+- HTML5/CSS3
+- SQL (mssql, psql)
+
+I am quite knowledgeable in Back-End Language, eCommerce and Mobile apps 
 
 Skills: Python/Django/JavaScript/React/Redux/Bootstrap4/CSS3/HTML5
 
