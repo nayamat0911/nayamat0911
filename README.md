@@ -1,5 +1,6 @@
-### Hi there 👋, My name is Nayamat Ullah
-#### A passionate Full-stack web developer from Bangladesh
+## Hi,
+#### My name is Nayamat Ullah
+##### A passionate Full-stack web developer from Bangladesh
 I am Nayamat Ullah.I am a Full Stack Web Developer with experience of more than 1+ years specializing in Web-Development & Designing with :
 
 - Python
