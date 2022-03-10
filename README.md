@@ -22,7 +22,7 @@ I'm Sumit, a Full Stack Web Developer from <img src="assets/bangladesh.png" widt
 
 [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
 
-### My Projects & Ventures
+<!-- ### My Projects & Ventures
 
 <table>
   <thead align="center">
@@ -64,16 +64,16 @@ I'm Sumit, a Full Stack Web Developer from <img src="assets/bangladesh.png" widt
       <td>20 million+ Consumer Data Managed Already</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
-### 📺 &emsp;Latest YouTube Videos
+<!-- ### 📺 &emsp;Latest YouTube Videos -->
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START 
 - [React 18 new features - What&#39;s new in React](https://www.youtube.com/watch?v=K8pzpxfES4U)
 - [Debounce Function in JavaScript - JavaScript Job Interview question](https://www.youtube.com/watch?v=dD9O8DnIBj4)
 - [#46 React Router v6 Private Route Tutorial](https://www.youtube.com/watch?v=99RWZsEITx4)
 - [#100 JavaScript Bangla Tutorial | DOM Project JavaScript Tutorial](https://www.youtube.com/watch?v=_WuDDnZMRiE)
-- [How to Learn - Learn from the Mentor](https://www.youtube.com/watch?v=1ECsXb6TnxU)
+- [How to Learn - Learn from the Mentor](https://www.youtube.com/watch?v=1ECsXb6TnxU)-->
 <!-- YOUTUBE:END -->
 
 #### Business
