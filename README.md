@@ -78,7 +78,7 @@ I'm Sumit, a Full Stack Web Developer from <img src="assets/bangladesh.png" widt
 
 #### Business
 
-:email: &emsp;sayhitorainmaker@gmail.com
+:email: &emsp;nayamat0911@gmail.com
 
 #### Profile Visits
 
