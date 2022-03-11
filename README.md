@@ -3,7 +3,7 @@
 ## Hi there my friend
 
 I'm Nayamat, a Full Stack Web Developer from Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects.
-<img align="left" src="https://camo.githubusercontent.com/957bc8344fdd839897440855bbb64a58cad407d9986a3265e38d2598147c7931/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b68757368626f6f676f656c30312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="khushboogoel01" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/.nayamat.ullah.148553) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayamat-ullah-584801129/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nayamat0911/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NayamatUllah11) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayamat0911@gmail.com)
@@ -86,6 +86,7 @@ I'm Nayamat, a Full Stack Web Developer from Bangladesh and Content Creator on [
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nayamat0911.nayamat0911)
+<img align="left" src="https://camo.githubusercontent.com/957bc8344fdd839897440855bbb64a58cad407d9986a3265e38d2598147c7931/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b68757368626f6f676f656c30312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="nayamat0911" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=nayamat0911&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 
 <details>
 <summary>
