@@ -2,7 +2,7 @@
 
 ## Hi there my friend <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Nayamat, a Full Stack Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/Learning Web). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Nayamat, a Full Stack Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects or recording tutorials.
 
 :coffee: &emsp;Connect with me!
 
