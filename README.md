@@ -20,7 +20,7 @@ I'm Nayamat, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 ### Most Project
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)(https://lwsbd.link/react) [![Python Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD438)](#)(https://lwsbd.link/node) [![Django Playlist](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Bootstrap Playlist](https://img.shields.io/badge/Bootstrap%20-092749?style=for-the-badge&logo=bootstrap&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://lwsbd.link/react) [![Python Badge](https://img.shields.io/badge/-Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD438)](https://lwsbd.link/node) [![Django Playlist](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Bootstrap Playlist](https://img.shields.io/badge/Bootstrap%20-092749?style=for-the-badge&logo=bootstrap&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
 
 <!-- ### My Projects & Ventures
 
