@@ -1,8 +1,8 @@
 <!-- ![Github Banner](assets/github-banner.png) -->
 
-## Hi there my friend <img src="assets/hello.gif" width="28px">
+## Hi there my friend
 
-I'm Nayamat, a Full Stack Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects.
+I'm Nayamat, a Full Stack Web Developer from Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects.
 
 :coffee: &emsp;Connect with me!
 
@@ -80,10 +80,10 @@ I'm Nayamat, a Full Stack Web Developer from <img src="assets/bangladesh.png" wi
 
 :email: &emsp;nayamat0911@gmail.com
 
-#### Github Stats
+### Github Stats
 
 ![nayamat0911's github stats](https://github-readme-stats.vercel.app/api?username=nayamat0911&count_private=true&theme=tokyonight&hide=contribs,prs)
-#### Profile Visits
+### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nayamat0911.nayamat0911)
 
