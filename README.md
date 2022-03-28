@@ -10,20 +10,17 @@ I'm Nayamat, a Full Stack Web Developer from Bangladesh. I Spend most of time co
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `print("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with Outstanding given knowledge about python proggremming ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: nayamat0911@gmail.com.<br/>
 <details>
 <summary>
-  ⚡ &emsp; You wanna know more about me?
+  ### &emsp; ou wanna know more about me?
 </summary>
 
 <br >
 
-I love sharing knowledge posts together for helping other developers, and that's why Learn Web deveelopment!
-
 #### My Web developer Career*
 
-"I'm a  new Python developer, I love Python programming. Coding and programming is my passion, I don't like a spent a moment without coding. I live without eating but I can't live a moment without coding. And I like to learn development from others. I find a lot of fun on learning New technology hunting. I want to be a good web developer in the future, and I want to do something new in web development. I believe that any  people dedicate for his works Allah help him".
+"I'm a  new Python developer, I love Python programming. Coding and programming is my passion, I don't like a spent a moment without coding. I live without eating but I can't live a moment without coding. And I like to learn development from others. I find a lot of fun on learning New technology hunting. I want to be a good web developer in the future, and I want to do something new in web development. "I believe that any  people dedicate for his works Allah help him". I’m a people who can help me with Outstanding given knowledge about python programming".
 
 
 </details>
