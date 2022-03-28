@@ -12,15 +12,12 @@ I'm Nayamat, a Full Stack Web Developer from Bangladesh. I spend most of my time
 :computer: &emsp;Most used line of code `print("hello world")` <br/>
 :e-mail: &emsp;How to reach me: nayamat0911@gmail.com.<br/>
 <details>
-
-###
+<br>
 <summary>
    &emsp; You wanna know more about me?
 </summary>
 
-<br >
-
-#### My Web developer Career*
+#### About My Web development*
 
 "I'm a  new Python developer, I love Python programming. Coding and programming is my passion, I don't like a spent a moment without coding. I live without eating but I can't live a moment without coding. And I like to learn development from others. I find a lot of fun in learning New technology hunting. I want to be a good web developer in the future, and I want to do something new in web development. "I believe that a people dedicate for his works Allah help him". I’m a people who can help me with Outstanding given knowledge about python programming".
 
