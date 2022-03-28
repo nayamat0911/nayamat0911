@@ -2,17 +2,32 @@
 
 ## Hi there my friend
 
-I'm Nayamat, a Full Stack Web Developer from Bangladesh and Content Creator on [Youtube](https://youtube.com/). I Spend most of time coding outstanding projects.
+I'm Nayamat, a Full Stack Web Developer from Bangladesh. I Spend most of time coding outstanding projects.
 
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/.nayamat.ullah.148553) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayamat-ullah-584801129/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nayamat0911/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NayamatUllah11) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayamat0911@gmail.com)
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
+:computer: &emsp;Most used line of code `print("hello world")` <br/>
+🤔 &emsp;I’m looking for people who can help me with Outstanding given knowledge about python proggremming ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: nayamat0911@gmail.com.<br/>
-⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
+<details>
+<summary>
+  ⚡ &emsp; You wanna know more about me?
+</summary>
+
+<br >
+
+I love sharing knowledge posts together for helping other developers, and that's why Learn Web deveelopment!
+
+#### My Web developer Career*
+
+"I'm a  new Python developer, I love Python programming. Coding and programming is my passion, I don't like a spent a moment without coding. I live without eating but I can't live a moment without coding. And I like to learn development from others. I find a lot of fun on learning New technology hunting. I want to be a good web developer in the future, and I want to do something new in web development. I believe that any  people dedicate for his works Allah help him".
+
+
+</details>
+<br>
 
 #### Things I code with
 
@@ -88,19 +103,4 @@ I'm Nayamat, a Full Stack Web Developer from Bangladesh and Content Creator on [
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nayamat0911.nayamat0911)
 
 <!-- <img align="" src="https://camo.githubusercontent.com/957bc8344fdd839897440855bbb64a58cad407d9986a3265e38d2598147c7931/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b68757368626f6f676f656c30312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="nayamat0911" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=nayamat0911&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"> -->
-<details>
-<summary>
-  You wanna know more about me?
-</summary>
 
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn Web Youtube Channel exists!
-
-#### My Web developer Career*
-
-"All about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started Full-stack develope in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
-
-
-
-</details>
